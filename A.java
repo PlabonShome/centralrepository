@@ -11,10 +11,6 @@ class Sample15
 		this();
 		 System.out.println("From Sample1(int a)");
 	}
-
-
-	
-	
 	
 	public static void main(String[] args) 
 	{
